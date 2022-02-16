@@ -7,13 +7,11 @@ A portfolio of my Projects and About Me
 HTML
 CSS
 
-# Struggles
-Flex box! Always getting boxes to go where I want them.  
-=======
-Flex box! Getting boxes to go where I want them.  
+## Struggles
+Flex box! Getting boxes to go where I want them to go.  
 
 
-# Contributions
+## Contributions
 ME!! For trying so damn hard to understand coding
 
 ## Licence
